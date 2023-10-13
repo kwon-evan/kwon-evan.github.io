@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "https://kwon-evan.github.io/"
 author = "kwon-evan"
-title = "kwon-evan's blog"
+title = "Kwon Evan"
 compile_sass = true
 build_search_index = true
 generate_feed = true
